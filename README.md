@@ -6,6 +6,6 @@ NOMBRE: Nadia Ived Martinez Miranda
 
 NÚMERO DE CONTROL: 25410167
 
-CARRERA: Ing. En Sistemas Computacionales
+CARRERA: Ing. en Sistemas Computacionales
 
-MATERIA: Estructura de datos
+MATERIA: Estructura de Datos
