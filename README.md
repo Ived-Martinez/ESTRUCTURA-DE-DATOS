@@ -2,10 +2,10 @@
 
 # Datos del alumno
 
-Nombre: Nadia Ived Martinez Miranda
+NOMBRE: Nadia Ived Martinez Miranda
 
-Numero de control:25410167
+NÚMERO DE CONTROL: 25410167
 
-Carrera: Ing. En Sistemas Computacionales
+CARRERA: Ing. En Sistemas Computacionales
 
-Materia: Estructura de datos
+MATERIA: Estructura de datos
