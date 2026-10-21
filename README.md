@@ -1,4 +1,4 @@
-# ESTRUCTURA-DE-DATOS
+# UNIDAD ll PROGRAMAS DE RECURSIVIDAD
 
 # Datos del alumno
 
@@ -8,4 +8,4 @@ Numero de control:25410167
 
 Carrera: Ing. En Sistemas Computacionales
 
-Materia: Estrcutura de datos
+Materia: Estructura de datos
